@@ -11,4 +11,4 @@ python:
 
 sphinx:
   configuration: doc/source/conf.py
-  source_templates: doc/source/_templates
+  templates: doc/source/_templates
