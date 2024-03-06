@@ -11,9 +11,3 @@ python:
 
 sphinx:
   configuration: doc/source/conf.py
-  
-submodules:
-  include:
-    - one
-    - two
-  recursive: true

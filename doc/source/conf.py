@@ -9,7 +9,7 @@
 import os
 import sys
 basedir = os.path.abspath(os.path.join(
-    os.path.dirname(__file__), '..', '..', 'quadratik'))
+    os.path.dirname(__file__), '..', 'Quadratik'))
 sys.path.insert(0, basedir)
 
 project = 'QuadratiK'
